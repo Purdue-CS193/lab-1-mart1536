@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Carter Martin's first CS193 Lab
+My favorite parts of CS193:
+- When GitHub doesn't work during the lab session
+- Attending my lab session because the instructors are super cool
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
